@@ -1,4 +1,4 @@
-from typing import List, Optional, Dict
+from typing import Optional, Dict
 
 with open("d7-input.txt") as f:
     data = f.read().splitlines()
