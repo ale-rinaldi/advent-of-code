@@ -1,4 +1,4 @@
-with open('d2-input.txt') as f:
+    with open('d2-input.txt') as f:
     lines = f.readlines()
 lines = [line.strip() for line in lines]
 
